@@ -1,4 +1,4 @@
-# Star Explorer 2D
+# Star Quadrant Explorer 2D
 
 ## 2D concept for a university 3D game project
 
